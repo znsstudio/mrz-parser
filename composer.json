@@ -1,11 +1,11 @@
 {
-    "name": "rakibdevs/mrz-parser",
+    "name": "znsstudio/mrz-parser",
     "description": "A PHP package for MRZ (Machine Readable Zones) code parser for Passport, Visa & Travel Documents.",
     "keywords": [
         "rakibdevs",
         "mrz-parser"
     ],
-    "homepage": "https://github.com/rakibdevs/mrz-parser",
+    "homepage": "https://github.com/znsstudio/mrz-parser",
     "license": "MIT",
     "authors": [
         {
